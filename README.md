@@ -8,7 +8,7 @@
 - 📫 How to reach me: sheygildas@gmail.com
 
 
-My experience is in computer network administration, penetration testing and the cloud. My skills are as follows;
+My experience is in  the follows;
 
  Cloud Architect 
 
