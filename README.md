@@ -11,8 +11,11 @@
 My experience is in computer network administration, penetration testing and the cloud. My skills are as follows;
 
  Cloud Architect 
+
  DevOps
+
  Computer Netwoking 
+
  Penetration Testing
 
 <!--
